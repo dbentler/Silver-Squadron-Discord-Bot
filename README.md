@@ -10,7 +10,7 @@ This discord bot was supposed to be a collaborative effort to assist in coordina
 
 ## Purpose
 
-I'll be honest, the main reason for the demand of the creation of this new discord bot was because someone complained that couldn't create events using the format: "TTTT DDMONTHYYYY // EX: 2000 22MAY2021).
+I'll be honest, the main reason for creation of this discord bot was because someone complained that couldn't create events using the format: "TTTT DDMONTHYYYY // EX: 2000 22MAY2021).
 
 ## What can it do?
 
