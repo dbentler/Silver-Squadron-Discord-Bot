@@ -1,5 +1,8 @@
 # DEVGRU Silver Squadron's Personal Discord Bot
- This discord bot was supposed to be a collaborative effort to assist in coordinating operation times for an Arma 3 unit.
+![Example event](pics/bot-1.PNG)
+![Example event](pics/bot-2.PNG)
+
+This discord bot was supposed to be a collaborative effort to assist in coordinating operation times for an Arma 3 unit.
 
  Unfortunately, the unit was shut down and the collaboration never came.
 
