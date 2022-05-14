@@ -1,4 +1,4 @@
-# DEVGRU Silver Squadron's Personal Discord Bot
+# DEVGRU Silver Squadron's Personal Discord Event Bot
 ![Example event](pics/bot-1.PNG)
 ![Example event](pics/bot-2.PNG)
 
