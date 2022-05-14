@@ -8,7 +8,7 @@ To create event "notifications" and send out reminders (if the user opts in) to 
 
 mm/dd/yy HH:MM (12 hour clock)
 
-DDMONTHYY HHMM (US Military Date format, 24-hour clock)
+DDMONTHYYYY HHMM (US Military Date format, 24-hour clock)
 
 ## What can it do?
 
