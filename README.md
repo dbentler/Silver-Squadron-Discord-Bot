@@ -7,6 +7,7 @@
 To create event "notifications" and send out reminders (if the user opts in) to the Silver Squadron Arma 3 community. Takes the following formats:
 
 mm/dd/yy HH:MM (12 hour clock)
+
 DDMONTHYY HHMM (US Military Date format, 24-hour clock)
 
 ## What can it do?
