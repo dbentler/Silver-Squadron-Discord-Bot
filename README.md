@@ -2,15 +2,12 @@
 ![Example event](pics/bot-1.PNG)
 ![Example event](pics/bot-2.PNG)
 
-This discord bot was supposed to be a collaborative effort to assist in coordinating operation times for an Arma 3 unit.
-
- Unfortunately, the unit was shut down and the collaboration never came.
-
- Here is the code I wrote before the project/unit was shut down.
-
 ## Purpose
 
-I'll be honest, the main reason for creation of this discord bot was because someone complained that couldn't create events using the format: "TTTT DDMONTHYYYY // EX: 2000 22MAY2021).
+To create event "notifications" and send out reminders (if the user opts in) to the Silver Squadron Arma 3 community. Takes the following formats:
+
+mm/dd/yy HH:MM (12 hour clock)
+DDMONTHYY HHMM (US Military Date format, 24-hour clock)
 
 ## What can it do?
 
@@ -18,7 +15,7 @@ It can create be used to create public events and send out reminders an hour bef
 
 It also has has error logging and exception, along with a "shoot" command (running joke among the unit).
 
-Also comes with a markdown wiki.
+Also comes with a markdown wiki (built for future collaboration).
 
 ## Can I use/update it?
 
